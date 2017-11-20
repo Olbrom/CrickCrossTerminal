@@ -1,11 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
-import java.awt.Dimension;
-import java.awt.Toolkit;
-import java.awt.event.*;
-import javax.swing.*;
 
-public class Game extends JFrame	
+public class Game 	
 {
 	boolean koniecGry = false;
 	char[][] plansza = new char [3][3];
